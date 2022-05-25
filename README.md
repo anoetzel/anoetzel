@@ -2,3 +2,4 @@
 - 👀 I’m interested in Web Development. My stack of technologies is: JavaScript, [S]CSS, Bootstrap, HTML, Git, Webpack, Gulp, Jest, Cypress.
 - 🌱 I’m currently learning Node.js, React with Typescript and SQL and I'll soon look for job as Frontend Developer.
 - 📫 You can reach me per e-mail: anna.noetzel[at]online.de
+- 💻 My website with portfolio is https://anna-noetzel.com/
