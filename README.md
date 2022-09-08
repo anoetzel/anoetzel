@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna and I live in Germany.
 - 👀 I’m interested in Web Development. My stack of technologies is: React.js, JavaScript, TypeScript, Node.js, [S]CSS, Bootstrap, HTML, Git, Webpack, Gulp, Jest, Cypress; MongoDB, PostgreSQL, MySQL.
-- 📫 You can reach me per e-mail: anna.noetzel[at]online.de
+- 📫 You can contact me per e-mail: anna.noetzel[at]online.de
 - 💻 My website with portfolio is https://anna-noetzel.com/
 - 🇺🇦 #IstandWithUkraine, #nofashism
