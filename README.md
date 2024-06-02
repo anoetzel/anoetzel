@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Anna and I a Web Developer.
-- 👀 My stack of technologies is: React.js, JavaScript, TypeScript, Node.js, [S]CSS, Bootstrap, HTML, Git, Webpack, Gulp, Jest, Cypress; MongoDB, PostgreSQL, MySQL, PHP etc.
-- The most my repositories are private.
-- 📫 You can contact me per e-mail: anna.noetzel[at]online.de
-- 🇺🇦 #IstandWithUkraine, #nofashism
+
